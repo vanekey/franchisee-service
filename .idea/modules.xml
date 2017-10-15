@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business-service/business-service.iml" filepath="$PROJECT_DIR$/business-service/business-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/franchisee-service.iml" filepath="$PROJECT_DIR$/franchisee-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification-service/notification-service.iml" filepath="$PROJECT_DIR$/notification-service/notification-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry-centre/registry-centre.iml" filepath="$PROJECT_DIR$/registry-centre/registry-centre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/settle-service/settle-service.iml" filepath="$PROJECT_DIR$/settle-service/settle-service.iml" />
+    </modules>
+  </component>
+</project>
